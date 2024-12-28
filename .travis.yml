@@ -19,6 +19,6 @@ script:
 notifications:
   email:
     recipients:
-      - your-email@example.com
+      - ojdevit@gmail.com
     on_success: change
     on_failure: always
